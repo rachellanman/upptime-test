@@ -1,0 +1,38 @@
+[
+  {
+    "name": "USDS Home page",
+    "url": "https://www.usds.gov/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.usds.gov.ico",
+    "slug": "usds-home-page",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 149,
+    "timeDay": 149,
+    "timeWeek": 149,
+    "timeMonth": 149,
+    "timeYear": 149,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "USDS Apply page",
+    "url": "https://www.usds.gov/apply",
+    "icon": "https://icons.duckduckgo.com/ip3/www.usds.gov.ico",
+    "slug": "usds-apply-page",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 59,
+    "timeDay": 59,
+    "timeWeek": 59,
+    "timeMonth": 59,
+    "timeYear": 59,
+    "dailyMinutesDown": {}
+  }
+]
