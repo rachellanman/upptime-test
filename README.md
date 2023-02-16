@@ -1,4 +1,4 @@
-# [📈 Live Status](https://rachellanman.github.io/upptime-test): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://rachellanman.github.io/upptime-test)
 
 This repository contains the open-source uptime monitor and status page for [rachellanman](https://rachellanman.github.io/upptime-test), powered by [Upptime](https://github.com/upptime/upptime).
 
