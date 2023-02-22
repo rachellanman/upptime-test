@@ -16,7 +16,7 @@ status-website:
   theme: light
   navbar:
     - title: Status
-      href: /website-monitoring
+      href: /
     - title: GitHub
       href: https://github.com/rachellanman/website-monitoring
 
