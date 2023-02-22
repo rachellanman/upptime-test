@@ -20,9 +20,9 @@ status-website:
   theme: light
   navbar:
     - title: Status
-      href: /
+      href: /website-monitoring
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/rachellanman/website-monitoring
 
 assignees:
   - kategreenUSDS
